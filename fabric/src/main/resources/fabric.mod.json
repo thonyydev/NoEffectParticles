@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "noeffectparticles",
+  "version": "${version}",
+  "name": "No Effect Particles",
+  "description": "A lightweight client-side mod that hides status effect particles from players and mobs.",
+  "authors": [
+    "Thonyy"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "mixins": [
+    "noeffectparticles.mixins.json"
+  ],
+  "entrypoints": {
+    "modmenu": [
+      "net.thonyy.noeffectparticles.fabric.ModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

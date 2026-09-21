@@ -1,0 +1,30 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "noeffectparticles"
+version = "${version}"
+displayName = "No Effect Particles"
+authors = "Thonyy"
+description = '''
+A lightweight client-side mod that hides status effect particles from players and mobs.
+'''
+displayTest = "IGNORE_ALL_VERSION"
+
+[[dependencies.noeffectparticles]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.2.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.noeffectparticles]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.2,26.3)"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "noeffectparticles.mixins.json"

@@ -1,0 +1,6 @@
+{
+  "screen.noeffectparticles.title": "No Effect Particles",
+  "screen.noeffectparticles.remove_own": "Remove my particles",
+  "screen.noeffectparticles.remove_other_players": "Remove other players' particles",
+  "screen.noeffectparticles.remove_mobs": "Remove mob particles"
+}

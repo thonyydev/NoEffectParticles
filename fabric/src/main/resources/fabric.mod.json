@@ -8,6 +8,7 @@
     "Thonyy"
   ],
   "license": "MIT",
+  "icon": "icon.png",
   "environment": "client",
   "mixins": [
     "noeffectparticles.mixins.json"

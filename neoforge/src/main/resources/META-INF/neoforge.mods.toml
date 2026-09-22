@@ -7,6 +7,7 @@ modId = "noeffectparticles"
 version = "${version}"
 displayName = "No Effect Particles"
 authors = "Thonyy"
+iconFile = "icon.png"
 description = '''
 A lightweight client-side mod that hides status effect particles from players and mobs.
 '''

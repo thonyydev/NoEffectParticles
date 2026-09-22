@@ -1,6 +1,26 @@
-# No Effect Particles
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/thonyydev/NoEffectParticles/refs/heads/main/common/src/main/resources/icon.png"
+    width="180"
+    alt="No Effect Particles"
+  >
+</p>
 
-A lightweight client-side Minecraft mod that removes status effect particles from players and mobs.
+<h1 align="center">No Effect Particles</h1>
+
+<p align="center">
+  A lightweight client-side Minecraft mod that removes status effect particles from players and mobs.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-26.2-green" alt="Minecraft">
+  <img src="https://img.shields.io/badge/Fabric-Supported-blue" alt="Fabric">
+  <img src="https://img.shields.io/badge/NeoForge-Supported-orange" alt="NeoForge">
+  <img src="https://img.shields.io/badge/Client--Side-Yes-brightgreen" alt="Client Side">
+  <img src="https://img.shields.io/badge/Java-25-red" alt="Java">
+  <img src="https://img.shields.io/github/license/thonyydev/NoEffectParticles" alt="License">
+  <img src="https://img.shields.io/github/v/release/thonyydev/NoEffectParticles" alt="Release">
+</p>
 
 ## Features
 
